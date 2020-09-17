@@ -6,4 +6,4 @@
 ```
 
 # cv - Curriculum Vitae
-LuaTex version of my personal CV (en,cz mutations)
+LuaLaTex version of my personal CV (en,cz mutations)
